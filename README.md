@@ -8,4 +8,4 @@ con markdown puedo realizar ediciones de texto, por ejemplo:
 
 Ahora inserto otra imagen
 
-! [imagen](./imagenes/imagen2(ISLMFE).jpg)
+![imagen](./imagenes/imagen2(ISLMFE).jpg)
